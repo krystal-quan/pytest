@@ -1,0 +1,2 @@
+Unittest chạy nhanh hơn Pytest, tuy nhiên Pytest có thể cải thiện tốc độ bằng cách chạy đa luồng
+Nose chạy chậm hơn Unittest và nhanh hơn pytest, tuy có hỗ trợ đa luồng nhưng (như t test là nó chạy chậm hơn WTF?)

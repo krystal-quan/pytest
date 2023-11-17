@@ -14,4 +14,5 @@ def session():
 def connection():
     conn = Connection()
     yield conn
+
     conn.close()

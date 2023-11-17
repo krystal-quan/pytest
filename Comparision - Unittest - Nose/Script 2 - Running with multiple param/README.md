@@ -5,3 +5,6 @@
 2. Với Pytest
 - Code "flat" hơn, không nested như unittest
 - Support @pytest.mark.parametrize hỗ trợ multiparam
+3. Với Nose(Nose2)
+- Phải viết thêm 1 hàm phụ để có thể sinh nhiều test với nhiều biến
+- Code bị "nested"
